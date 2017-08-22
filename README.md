@@ -64,5 +64,4 @@ Sobre o serviço de transação:
 
 ### Procedimento
  - o projeto deve ser colocado em algum repositório público
- - Em caso de dúvidas sobre o desafio entre em contato com 
-`luiz.vasconcellos@b2wdigital.com` ou `rodrigo.cacilhas@b2wdigital.com`
+ - Em caso de dúvidas sobre o desafio entre em contato 
