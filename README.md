@@ -1,4 +1,4 @@
-# Desenvolvedor Sênior - b2wads
+Desenvolvedor Sênior - b2wads
 ===
 
 Desenvolvedor Senior para compor a equipe de desenvolvimento do b2wads
