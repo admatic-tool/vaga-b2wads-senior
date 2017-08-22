@@ -1,6 +1,4 @@
-# vaga para desenvolvedor senior - b2wads
-
-Desenvolvedor Sênior
+# Desenvolvedor Sênior - b2wads
 ===
 
 Desenvolvedor Senior para compor a equipe de desenvolvimento do b2wads
