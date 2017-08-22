@@ -1,4 +1,4 @@
-# vaga-b2wads-senior
+# vaga para desenvolvedor senior - b2wads
 
 Desenvolvedor Sênior
 ===
@@ -22,7 +22,7 @@ Desenvolvedor Senior para compor a equipe de desenvolvimento do b2wads
 
 Sistemas distribuídos tem inúmeros desafios, um deles é a gestão de transações distribuidas entre diferentes serviços.
 
-Temos uma api de incremento de cliques, e uma api de débito, sempre que um anúncio é clicado, a contagem de cliques daquele anúncio precisa ser incrementada, bem como realizar o débito da conta do cliente.
+Dada uma api de incremento de cliques, e uma api de débito, sempre que um anúncio é clicado, a contagem de cliques daquele anúncio precisa ser incrementada, bem como realizar o débito da conta do cliente.
 
 Exemplo de dados anúncio em json
 
@@ -63,3 +63,8 @@ Sobre o serviço de transação:
  - a clareza do código
  - a escolha das tecnologias
  - a eficiência e eficácia dos testes
+
+### Procedimento
+ - o projeto deve ser colocado em algum repositório público
+ - Em caso de dúvidas sobre o desafio entre em contato com 
+`luiz.vasconcellos@b2wdigital.com` ou `rodrigo.cacilhas@b2wdigital.com`
